@@ -1,0 +1,13 @@
+.highlight{
+	background-color: red;
+}
+#draggable, #id-combo-demo, .class-combo-demo{
+	width:150px;
+	height: 150px;
+	padding: .5em;
+	background-color: gray;
+}
+
+#id-combo-demo, .class-combo-demo{
+	border: 10px;
+}
